@@ -16,3 +16,4 @@ ALTER TABLE student
 		);
 
 show tables;
+select stud_id,name,email,dob from student;
